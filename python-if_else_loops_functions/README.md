@@ -109,5 +109,5 @@ Make a file executable:
 chmod u+x file.py
 ```
 Run:
-./file.py 
-python3 file.py
+```
+./file.py
