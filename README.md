@@ -90,6 +90,7 @@ Prints **The Zen of Python**, by Tim Peters, using:
 
 ```python
 import this
+```
 Script length must be ≤ 98 characters.
 
 Output begins with:
