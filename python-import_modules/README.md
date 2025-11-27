@@ -23,8 +23,11 @@ Imports functions (`add`, `sub`, `mul`, `div`) from `calculator_1.py`, assigns `
 ./1-calculation.py
 
 10 + 5 = 15
+
 10 - 5 = 5
+
 10 * 5 = 50
+
 10 / 5 = 2
 
 ---
