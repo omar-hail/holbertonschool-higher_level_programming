@@ -10,6 +10,7 @@ Imports the `add(a, b)` function from `add_0.py`, assigns `a = 1` and `b = 2`, a
 **Usage:**
 
 ./0-add.py
+
 1 + 2 = 3
 
 ---
@@ -20,6 +21,7 @@ Imports functions (`add`, `sub`, `mul`, `div`) from `calculator_1.py`, assigns `
 **Usage:**
 
 ./1-calculation.py
+
 10 + 5 = 15
 10 - 5 = 5
 10 * 5 = 50
@@ -33,13 +35,16 @@ Prints the number of arguments and lists each one with its index.
 **Usage:**
 
 ./2-args.py
+
 0 arguments.
 
 ./2-args.py Hello
+
 1 argument:
 1: Hello
 
 ./2-args.py Hello World School
+
 3 arguments:
 1: Hello
 2: World
@@ -53,6 +58,7 @@ Adds all integer arguments passed to the script and prints the total. Supports b
 **Usage:**
 
 ./3-infinite_add.py 10 20 30
+
 60
 
 ---
@@ -80,6 +86,7 @@ Imports the variable `a` from `variable_load_5.py` and prints its value.
 **Usage:**
 
 ./5-variable_load.py
+
 98
 
 ---
