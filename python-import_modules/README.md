@@ -8,6 +8,7 @@ This folder contains solutions to tasks related to Python modules, importing, co
 Imports the `add(a, b)` function from `add_0.py`, assigns `a = 1` and `b = 2`, and prints the result using formatted output.
 
 **Usage:**
+
 ./0-add.py
 1 + 2 = 3
 
@@ -17,6 +18,7 @@ Imports the `add(a, b)` function from `add_0.py`, assigns `a = 1` and `b = 2`, a
 Imports functions (`add`, `sub`, `mul`, `div`) from `calculator_1.py`, assigns `a = 10` and `b = 5`, and prints the math results.
 
 **Usage:**
+
 ./1-calculation.py
 10 + 5 = 15
 10 - 5 = 5
@@ -29,6 +31,7 @@ Imports functions (`add`, `sub`, `mul`, `div`) from `calculator_1.py`, assigns `
 Prints the number of arguments and lists each one with its index.
 
 **Usage:**
+
 ./2-args.py
 0 arguments.
 
@@ -48,6 +51,7 @@ Prints the number of arguments and lists each one with its index.
 Adds all integer arguments passed to the script and prints the total. Supports big integers.
 
 **Usage:**
+
 ./3-infinite_add.py 10 20 30
 60
 
@@ -58,6 +62,7 @@ Located in `/tmp/` during execution.
 Imports the compiled module `hidden_4.pyc` and prints all names that **do not** start with `__`, sorted alphabetically.
 
 **Usage (inside /tmp):**
+
 curl -Lso "hidden_4.pyc" "https://github.com/hs-hq/0x02.py/raw/main/hidden_4.pyc
 "
 ./4-hidden_discovery.py
@@ -73,6 +78,7 @@ print_school
 Imports the variable `a` from `variable_load_5.py` and prints its value.
 
 **Usage:**
+
 ./5-variable_load.py
 98
 
