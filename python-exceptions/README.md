@@ -21,21 +21,27 @@ Run any script:
 Files Description
 
 0-safe_print_list.py
+
 Safely print up to x elements from a list.
 
 1-safe_print_integer.py
+
 Safely print an integer.
 
 2-safe_print_list_integers.py
+
 Safely print integer elements from the first x items in a list.
 
 3-safe_print_division.py
+
 Safely divide two numbers and print the result.
 
 4-list_division.py
+
 Safely divide two lists element-by-element and handle errors.
 
 5-raise_exception.py
+
 Raise a TypeError.
 
 6-raise_exception_msg.py
