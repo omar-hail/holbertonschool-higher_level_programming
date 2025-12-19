@@ -1,17 +1,18 @@
 #!/usr/bin/python3
-'''
-We create an inheritor class
-'''
+"""
+Module: 1-my_list
+Defines a class MyList that inherits from list and adds print_sorted().
+"""
 
 
 class MyList(list):
-    '''
-    My list inheritor of list
-    '''
+    """
+    MyList inherits from list and adds a method to print the list sorted.
+    """
+
     def print_sorted(self):
         """
-        Prints the list in ascending sorted order.
-        Assumes all elements are of type int.
-        Does not modify the original list.
+        Print the list in ascending order without modifying the original list.
+        Assumes all elements are integers.
         """
         print(sorted(self))
