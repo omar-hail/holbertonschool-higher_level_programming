@@ -1,5 +1,8 @@
 #!/usr/bin/python3
+"""Read the file"""
+
+
 def read_file(filename=""):
-    with open(filename, encoding="utf-8") as fd:
-        for line in fd:
-            print(line, end="")
+    """Fonction who read a file"""
+    with open(filename, "r") as f:
+        print(f.read(), end='')
