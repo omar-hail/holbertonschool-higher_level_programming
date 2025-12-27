@@ -75,15 +75,3 @@ reload_from_json() method to update attributes from a dictionary
 📄 12-pascal_triangle.py
 
 Generates Pascal’s Triangle up to n rows and returns it as a list of lists.
-
-🛠 Requirements
-
-Python 3.x
-
-No external libraries required (only built-in modules)
-
-▶️ Usage
-
-Run scripts using:
-
-./filename.py
