@@ -16,6 +16,7 @@ Generating Pascal’s Triangle
 All tasks are implemented using simple and clear Python code.
 
 📂 Files and Functions
+
 📄 0-read_file.py
 
 Reads a UTF-8 text file and prints its content to standard output.
