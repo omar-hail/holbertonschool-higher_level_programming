@@ -66,6 +66,7 @@ reload_from_json() to update attributes from a dictionary
 pascal_triangle: Generates Pascal’s Triangle up to n rows.
 
 🔁 Advanced Serialization
+
 📄 Pickle Serialization
 
 CustomObject class
