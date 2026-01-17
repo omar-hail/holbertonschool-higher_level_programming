@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """List all states with a name starting with uppercase N from the database"""
+
+
 import MySQLdb
 import sys
 
